@@ -1,5 +1,5 @@
 ---
-title: Welcome to the Ethereum Wiki!
+title: Welcome to the Vapory Wiki!
 description: 
 published: true
 date: 2020-05-27T11:34:23.262Z
